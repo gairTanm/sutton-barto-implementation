@@ -15,5 +15,6 @@ Each folder in corresponds to one or more chapters of the above textbook and/or 
 - [Monte Carlo Model-Free Prediction & Control](MC/)
 - [Temporal Difference Model-Free Prediction & Control](TD/)
 - [Function Approximation](FA/)
-- [Deep Q Learning](DQN/) (WIP)
+- [Deep Q Learning](DQN/)
+- [Multi Armed Bandits and Thompson Sampling](Bandits/)
 - [Policy Gradient Methods](PolicyGradient/) (WIP)
